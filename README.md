@@ -1,4 +1,6 @@
-## Hi there 👋
+![welcome-to-my-github-profile](https://github.com/user-attachments/assets/6003d985-4305-4cae-966c-aae01280543c)
+
+<!-- ## Hi there 👋 -->
 
 <!--
 **abd0-omar/abd0-omar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
