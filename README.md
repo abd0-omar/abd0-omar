@@ -1,18 +1,75 @@
-![welcome-to-my-github-profile](https://github.com/user-attachments/assets/6003d985-4305-4cae-966c-aae01280543c)
+![Angry Typing Kitty](https://media.tenor.com/V7G6p9M2-m0AAAAd/angry-typing-kitty.gif)
 
-<!-- ## Hi there 👋 -->
+## Hi 👋, I'm Abdelrahman Omar (Abdo)
+I'm a software engineer focused on building type safe, performant systems and learning about distributed systems.
 
-<!--
-**abd0-omar/abd0-omar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What I'm working on
 
-Here are some ideas to get you started:
+* Backend systems in Rust
+* async programming (actors, mutex, locks)
+* Open source contributions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Recent activity
+
+<details>
+  <summary>Click to expand recent GitHub activity</summary>
+
+
+
+### 🔁 Merged Pull Requests
+
+- [Feature/add rust mcp client integration example](https://github.com/stakpak/agent/pull/390) in [`stakpak/agent`](https://github.com/stakpak/agent) • 2 weeks ago\
+  <sub>DevOps agent that won&#39;t accidentally tweet your AWS credentials 🦀</sub>
+
+- [Feature/improve password security](https://github.com/stakpak/agent/pull/377) in [`stakpak/agent`](https://github.com/stakpak/agent) • 4 weeks ago\
+  <sub>DevOps agent that won&#39;t accidentally tweet your AWS credentials 🦀</sub>
+
+- [Fix PowerShell command syntax in README](https://github.com/metacall/install/pull/43) in [`metacall/install`](https://github.com/metacall/install) • 1 month ago\
+  <sub>Cross-platform set of script to install MetaCall infrastructure.</sub>
+
+- [fix: shortcuts popup scroll navigation out-of-bounds bug](https://github.com/stakpak/agent/pull/357) in [`stakpak/agent`](https://github.com/stakpak/agent) • 1 month ago\
+  <sub>DevOps agent that won&#39;t accidentally tweet your AWS credentials 🦀</sub>
+
+- [feat: add actor model to `SecretManager` for redaction map thread safety](https://github.com/stakpak/agent/pull/354) in [`stakpak/agent`](https://github.com/stakpak/agent) • 1 month ago\
+  <sub>DevOps agent that won&#39;t accidentally tweet your AWS credentials 🦀</sub>
+
+- [refactor: optimize secret redaction and preserve redaction maps](https://github.com/stakpak/agent/pull/352) in [`stakpak/agent`](https://github.com/stakpak/agent) • 1 month ago\
+  <sub>DevOps agent that won&#39;t accidentally tweet your AWS credentials 🦀</sub>
+
+
+
+
+
+### 🛠️ Latest Contributions
+
+- 🔗 [`abd0-omar/leet-him-code`](https://github.com/abd0-omar/leet-him-code) • 5 days ago\
+  <sub>who let him code</sub>
+
+- 🔗 [`abd0-omar/contact-form`](https://github.com/abd0-omar/contact-form) • 3 weeks ago\
+  <sub>following https://www.zero2prod.com book</sub>
+
+- 🔗 [`abd0-omar/aoc-2025-in-rust`](https://github.com/abd0-omar/aoc-2025-in-rust) • 3 weeks ago
+
+- 🔗 [`metacall/install`](https://github.com/metacall/install) • 4 weeks ago\
+  <sub>Cross-platform set of script to install MetaCall infrastructure.</sub>
+
+- 🔗 [`stakpak/agent`](https://github.com/stakpak/agent) • 1 month ago\
+  <sub>DevOps agent that won&#39;t accidentally tweet your AWS credentials 🦀</sub>
+
+
+
+</details>
+
+### Currently reading
+| Book                            | Progress |
+| ------------------------------- | -------- |
+| Zero To Production In Rust      | 100%     |
+| Rust for Rustaceans             | 34%      |
+| Functional Programming in Scala | 6%       |
+
+### Contact
+- 📄 [CV](https://drive.google.com/file/d/1_-vuaTUpLmBy8EY4ivTjZRMsQOx65ogk/view?usp=sharing)
+- 💼 [LinkedIn](https://www.linkedin.com/in/abdelrahman-omar-739126248/)
+- 📫 abdelrahman.omar.elgendy@gmail.com
+
+Fun fact: my father was born on 6/6 and I was born on 5/5 so my sole purpose and mission in life is to have a child on 4/4
