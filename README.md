@@ -3,13 +3,13 @@
 ## Hi 👋, I'm Abdelrahman Omar (Abdo)
 I'm a software engineer focused on building type safe, performant systems and learning about distributed systems.
 
-### What I'm working on
+### 🛠️ What I'm working on
 
 * Backend systems in Rust
 * async programming (actors, mutex, locks)
 * Open source contributions
 
-## Recent activity
+## ⭐ Recent activity
 
 <details>
   <summary>Click to expand recent GitHub activity</summary>
@@ -60,14 +60,14 @@ I'm a software engineer focused on building type safe, performant systems and le
 
 </details>
 
-### Currently reading
+### 📚 Currently reading
 | Book                            | Progress |
 | ------------------------------- | -------- |
 | Zero To Production In Rust      | 100%     |
 | Rust for Rustaceans             | 34%      |
 | Functional Programming in Scala | 6%       |
 
-### Contact
+### ✉️ Contact
 - 📄 [CV](https://drive.google.com/file/d/1_-vuaTUpLmBy8EY4ivTjZRMsQOx65ogk/view?usp=sharing)
 - 💼 [LinkedIn](https://www.linkedin.com/in/abdelrahman-omar-739126248/)
 - 📫 abdelrahman.omar.elgendy@gmail.com
