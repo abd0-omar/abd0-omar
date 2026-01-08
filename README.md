@@ -71,5 +71,3 @@ I'm a software engineer focused on building type safe, performant systems and le
 - 📄 [CV](https://drive.google.com/file/d/1_-vuaTUpLmBy8EY4ivTjZRMsQOx65ogk/view?usp=sharing)
 - 💼 [LinkedIn](https://www.linkedin.com/in/abdelrahman-omar-739126248/)
 - 📫 abdelrahman.omar.elgendy@gmail.com
-
-Fun fact: my father was born on 6/6 and I was born on 5/5 so my sole purpose and mission in life is to have a child on 4/4
