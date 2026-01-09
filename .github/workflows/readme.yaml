@@ -32,32 +32,6 @@ jobs:
         template: templates/README.md.tpl
         writeTo: README.md
 
-    - name: Restore WakaTime placeholder
-      run: |
-        set -euo pipefail
-
-        if grep -q '<!--START_SECTION:waka-->' README.md && grep -q '<!--END_SECTION:waka-->' README.md; then
-          exit 0
-        fi
-
-        header=$(python3 -c "import re, pathlib, sys; text=pathlib.Path('templates/README.md.tpl').read_text(); match=re.search(r'^### .*WakaTime stats.*$', text, re.MULTILINE); sys.exit('Unable to detect WakaTime header in templates/README.md.tpl') if match is None else print(match.group(0), end='')")
-
-        if ! grep -Fq "${header}" README.md; then
-          echo "WakaTime header missing; update the template or README to include it." >&2
-          exit 1
-        fi
-
-        perl -0pi -e "s/\Q${header}\E.*\z/${header}\n<details>\n  <summary>Click to expand the latest metrics<\\/summary>\n\n<!--START_SECTION:waka-->\n<!--END_SECTION:waka-->\n\n<\\/details>\n/s" README.md
-
-    - name: Inject WakaTime metrics
-      uses: anmol098/waka-readme-stats@master
-      with:
-        WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-        GH_TOKEN: ${{ secrets.GH_TOKEN }}
-        SHOW_PROFILE_VIEWS: "False"
-        SYMBOL_VERSION: "3"
-        SHOW_TOTAL_CODE_TIME: "False"
-
     - name: Commit and push updates
       env:
         GITHUB_TOKEN: ${{ secrets.GH_TOKEN && secrets.GH_TOKEN || secrets.GITHUB_TOKEN }}
