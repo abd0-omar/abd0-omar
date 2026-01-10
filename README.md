@@ -1,15 +1,15 @@
-<img src="https://github.com/user-attachments/assets/0bbd39ae-81f5-4f39-a357-eb66e34f3dc0" width="200" />
+![Angry Typing Kitty](https://media.tenor.com/V7G6p9M2-m0AAAAd/angry-typing-kitty.gif)
 
 ## Hi 👋, I'm Abdelrahman Omar (Abdo)
 I'm a software engineer focused on building type safe, performant systems and learning about distributed systems.
 
-### 🛠️ What I'm working on
+### What I work on
 
 * Backend systems in Rust
-* async programming (actors, mutex, locks)
+* Concurrency & async programming (actors, mutex, locks)
 * Open source contributions
 
-## ⭐ Recent activity
+## Recent activity
 
 <details>
   <summary>Click to expand recent GitHub activity</summary>
@@ -18,10 +18,10 @@ I'm a software engineer focused on building type safe, performant systems and le
 
 ### 🔁 Merged Pull Requests
 
-- [Feature/add rust mcp client integration example](https://github.com/stakpak/agent/pull/390) in [`stakpak/agent`](https://github.com/stakpak/agent) • 2 weeks ago\
+- [Feature/add rust mcp client integration example](https://github.com/stakpak/agent/pull/390) in [`stakpak/agent`](https://github.com/stakpak/agent) • 3 weeks ago\
   <sub>DevOps agent that won&#39;t accidentally tweet your AWS credentials 🦀</sub>
 
-- [Feature/improve password security](https://github.com/stakpak/agent/pull/377) in [`stakpak/agent`](https://github.com/stakpak/agent) • 4 weeks ago\
+- [Feature/improve password security](https://github.com/stakpak/agent/pull/377) in [`stakpak/agent`](https://github.com/stakpak/agent) • 1 month ago\
   <sub>DevOps agent that won&#39;t accidentally tweet your AWS credentials 🦀</sub>
 
 - [Fix PowerShell command syntax in README](https://github.com/metacall/install/pull/43) in [`metacall/install`](https://github.com/metacall/install) • 1 month ago\
@@ -42,15 +42,15 @@ I'm a software engineer focused on building type safe, performant systems and le
 
 ### 🛠️ Latest Contributions
 
-- 🔗 [`abd0-omar/leet-him-code`](https://github.com/abd0-omar/leet-him-code) • 5 days ago\
-  <sub>who let him code</sub>
-
-- 🔗 [`abd0-omar/contact-form`](https://github.com/abd0-omar/contact-form) • 3 weeks ago\
+- 🔗 [`abd0-omar/newzletter`](https://github.com/abd0-omar/newzletter) • 2 days ago\
   <sub>following https://www.zero2prod.com book</sub>
 
-- 🔗 [`abd0-omar/aoc-2025-in-rust`](https://github.com/abd0-omar/aoc-2025-in-rust) • 3 weeks ago
+- 🔗 [`abd0-omar/leet-him-code`](https://github.com/abd0-omar/leet-him-code) • 1 week ago\
+  <sub>who let him code</sub>
 
-- 🔗 [`metacall/install`](https://github.com/metacall/install) • 4 weeks ago\
+- 🔗 [`abd0-omar/aoc-2025-in-rust`](https://github.com/abd0-omar/aoc-2025-in-rust) • 4 weeks ago
+
+- 🔗 [`metacall/install`](https://github.com/metacall/install) • 1 month ago\
   <sub>Cross-platform set of script to install MetaCall infrastructure.</sub>
 
 - 🔗 [`stakpak/agent`](https://github.com/stakpak/agent) • 1 month ago\
@@ -60,14 +60,16 @@ I'm a software engineer focused on building type safe, performant systems and le
 
 </details>
 
-### 📚 Currently reading
+### Currently reading
 | Book                            | Progress |
 | ------------------------------- | -------- |
 | Zero To Production In Rust      | 100%     |
 | Rust for Rustaceans             | 34%      |
 | Functional Programming in Scala | 6%       |
 
-### ✉️ Contact
+### Contact
 - 📄 [CV](https://drive.google.com/file/d/1_-vuaTUpLmBy8EY4ivTjZRMsQOx65ogk/view?usp=sharing)
 - 💼 [LinkedIn](https://www.linkedin.com/in/abdelrahman-omar-739126248/)
 - 📫 abdelrahman.omar.elgendy@gmail.com
+
+Fun fact: my father was born on 6/6 and I was born on 5/5 so my sole purpose and mission in life is to have a child on 4/4
