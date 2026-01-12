@@ -42,13 +42,13 @@ I'm a software engineer focused on building type safe, performant systems and le
 
 ### 🛠️ Latest Contributions
 
-- 🔗 [`abd0-omar/newzletter`](https://github.com/abd0-omar/newzletter) • 3 days ago\
+- 🔗 [`abd0-omar/newzletter`](https://github.com/abd0-omar/newzletter) • 1 day ago\
   <sub>following https://www.zero2prod.com book</sub>
 
 - 🔗 [`abd0-omar/leet-him-code`](https://github.com/abd0-omar/leet-him-code) • 1 week ago\
   <sub>who let him code</sub>
 
-- 🔗 [`abd0-omar/aoc-2025-in-rust`](https://github.com/abd0-omar/aoc-2025-in-rust) • 4 weeks ago
+- 🔗 [`abd0-omar/aoc-2025-in-rust`](https://github.com/abd0-omar/aoc-2025-in-rust) • 1 month ago
 
 - 🔗 [`metacall/install`](https://github.com/metacall/install) • 1 month ago\
   <sub>Cross-platform set of script to install MetaCall infrastructure.</sub>
