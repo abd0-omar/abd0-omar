@@ -42,7 +42,10 @@ I'm a software engineer focused on building type safe, performant systems and le
 
 ### 🛠️ Latest Contributions
 
-- 🔗 [`abd0-omar/newzletter`](https://github.com/abd0-omar/newzletter) • 1 day ago\
+- 🔗 [`abd0-omar/azizo`](https://github.com/abd0-omar/azizo) • 1 day ago\
+  <sub>Rust API for ASUS display control</sub>
+
+- 🔗 [`abd0-omar/newzletter`](https://github.com/abd0-omar/newzletter) • 2 days ago\
   <sub>following https://www.zero2prod.com book</sub>
 
 - 🔗 [`abd0-omar/leet-him-code`](https://github.com/abd0-omar/leet-him-code) • 1 week ago\
@@ -52,9 +55,6 @@ I'm a software engineer focused on building type safe, performant systems and le
 
 - 🔗 [`metacall/install`](https://github.com/metacall/install) • 1 month ago\
   <sub>Cross-platform set of script to install MetaCall infrastructure.</sub>
-
-- 🔗 [`stakpak/agent`](https://github.com/stakpak/agent) • 1 month ago\
-  <sub>DevOps agent that won&#39;t accidentally tweet your AWS credentials 🦀</sub>
 
 
 
