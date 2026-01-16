@@ -1,4 +1,4 @@
-![Angry Typing Kitty](https://media.tenor.com/V7G6p9M2-m0AAAAd/angry-typing-kitty.gif)
+<img src="https://github.com/user-attachments/assets/0bbd39ae-81f5-4f39-a357-eb66e34f3dc0" width="200" />
 
 ## Hi 👋, I'm Abdelrahman Omar (Abdo)
 I'm a software engineer focused on building type safe, performant systems and learning about distributed systems.
@@ -18,7 +18,7 @@ I'm a software engineer focused on building type safe, performant systems and le
 
 ### 🔁 Merged Pull Requests
 
-- [Feature/add rust mcp client integration example](https://github.com/stakpak/agent/pull/390) in [`stakpak/agent`](https://github.com/stakpak/agent) • 3 weeks ago\
+- [Feature/add rust mcp client integration example](https://github.com/stakpak/agent/pull/390) in [`stakpak/agent`](https://github.com/stakpak/agent) • 4 weeks ago\
   <sub>DevOps agent that won&#39;t accidentally tweet your AWS credentials 🦀</sub>
 
 - [Feature/improve password security](https://github.com/stakpak/agent/pull/377) in [`stakpak/agent`](https://github.com/stakpak/agent) • 1 month ago\
@@ -42,13 +42,13 @@ I'm a software engineer focused on building type safe, performant systems and le
 
 ### 🛠️ Latest Contributions
 
-- 🔗 [`greshake/i3status-rust`](https://github.com/greshake/i3status-rust) • 1 day ago\
+- 🔗 [`greshake/i3status-rust`](https://github.com/greshake/i3status-rust) • 2 days ago\
   <sub>Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust</sub>
 
-- 🔗 [`abd0-omar/azizo`](https://github.com/abd0-omar/azizo) • 2 days ago\
+- 🔗 [`abd0-omar/azizo`](https://github.com/abd0-omar/azizo) • 3 days ago\
   <sub>Rust API for ASUS display control</sub>
 
-- 🔗 [`abd0-omar/newzletter`](https://github.com/abd0-omar/newzletter) • 4 days ago\
+- 🔗 [`abd0-omar/newzletter`](https://github.com/abd0-omar/newzletter) • 5 days ago\
   <sub>following https://www.zero2prod.com book</sub>
 
 - 🔗 [`abd0-omar/leet-him-code`](https://github.com/abd0-omar/leet-him-code) • 1 week ago\
