@@ -1,5 +1,3 @@
-<img src="https://github.com/user-attachments/assets/0bbd39ae-81f5-4f39-a357-eb66e34f3dc0" width="200" />
-
 ## Hi 👋, I'm Abdelrahman Omar (Abdo)
 I'm a software engineer focused on building type safe, performant systems and learning about distributed systems.
 
