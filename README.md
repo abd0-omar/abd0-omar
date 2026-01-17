@@ -40,16 +40,16 @@ I'm a software engineer focused on building type safe, performant systems and le
 
 ### 🛠️ Latest Contributions
 
-- 🔗 [`greshake/i3status-rust`](https://github.com/greshake/i3status-rust) • 2 days ago\
+- 🔗 [`greshake/i3status-rust`](https://github.com/greshake/i3status-rust) • 3 days ago\
   <sub>Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust</sub>
 
-- 🔗 [`abd0-omar/azizo`](https://github.com/abd0-omar/azizo) • 3 days ago\
+- 🔗 [`abd0-omar/azizo`](https://github.com/abd0-omar/azizo) • 4 days ago\
   <sub>Rust API for ASUS display control</sub>
 
-- 🔗 [`abd0-omar/newzletter`](https://github.com/abd0-omar/newzletter) • 5 days ago\
+- 🔗 [`abd0-omar/newzletter`](https://github.com/abd0-omar/newzletter) • 6 days ago\
   <sub>following https://www.zero2prod.com book</sub>
 
-- 🔗 [`abd0-omar/leet-him-code`](https://github.com/abd0-omar/leet-him-code) • 1 week ago\
+- 🔗 [`abd0-omar/leet-him-code`](https://github.com/abd0-omar/leet-him-code) • 2 weeks ago\
   <sub>who let him code</sub>
 
 - 🔗 [`abd0-omar/aoc-2025-in-rust`](https://github.com/abd0-omar/aoc-2025-in-rust) • 1 month ago
