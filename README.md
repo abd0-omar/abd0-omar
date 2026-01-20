@@ -40,10 +40,10 @@ I'm a software engineer focused on building type safe, performant systems and le
 
 ### 🛠️ Latest Contributions
 
-- 🔗 [`greshake/i3status-rust`](https://github.com/greshake/i3status-rust) • 5 days ago\
+- 🔗 [`greshake/i3status-rust`](https://github.com/greshake/i3status-rust) • 6 days ago\
   <sub>Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust</sub>
 
-- 🔗 [`abd0-omar/azizo`](https://github.com/abd0-omar/azizo) • 6 days ago\
+- 🔗 [`abd0-omar/azizo`](https://github.com/abd0-omar/azizo) • 1 week ago\
   <sub>Rust API for ASUS display control</sub>
 
 - 🔗 [`abd0-omar/newzletter`](https://github.com/abd0-omar/newzletter) • 1 week ago\
