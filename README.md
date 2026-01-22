@@ -17,22 +17,22 @@ I'm a software engineer focused on building type safe, performant systems and le
 ### 🔁 Merged Pull Requests
 
 - [Feature/add rust mcp client integration example](https://github.com/stakpak/agent/pull/390) in [`stakpak/agent`](https://github.com/stakpak/agent) • 1 month ago\
-  <sub>DevOps agent that won&#39;t accidentally tweet your AWS credentials 🦀</sub>
+  <sub>The Secure Open Source AI Agent for devs. It won&#39;t accidentally tweet your AWS credentials 🦀</sub>
 
 - [Feature/improve password security](https://github.com/stakpak/agent/pull/377) in [`stakpak/agent`](https://github.com/stakpak/agent) • 1 month ago\
-  <sub>DevOps agent that won&#39;t accidentally tweet your AWS credentials 🦀</sub>
+  <sub>The Secure Open Source AI Agent for devs. It won&#39;t accidentally tweet your AWS credentials 🦀</sub>
 
 - [Fix PowerShell command syntax in README](https://github.com/metacall/install/pull/43) in [`metacall/install`](https://github.com/metacall/install) • 1 month ago\
   <sub>Cross-platform set of script to install MetaCall infrastructure.</sub>
 
 - [fix: shortcuts popup scroll navigation out-of-bounds bug](https://github.com/stakpak/agent/pull/357) in [`stakpak/agent`](https://github.com/stakpak/agent) • 1 month ago\
-  <sub>DevOps agent that won&#39;t accidentally tweet your AWS credentials 🦀</sub>
+  <sub>The Secure Open Source AI Agent for devs. It won&#39;t accidentally tweet your AWS credentials 🦀</sub>
 
 - [feat: add actor model to `SecretManager` for redaction map thread safety](https://github.com/stakpak/agent/pull/354) in [`stakpak/agent`](https://github.com/stakpak/agent) • 1 month ago\
-  <sub>DevOps agent that won&#39;t accidentally tweet your AWS credentials 🦀</sub>
+  <sub>The Secure Open Source AI Agent for devs. It won&#39;t accidentally tweet your AWS credentials 🦀</sub>
 
 - [refactor: optimize secret redaction and preserve redaction maps](https://github.com/stakpak/agent/pull/352) in [`stakpak/agent`](https://github.com/stakpak/agent) • 1 month ago\
-  <sub>DevOps agent that won&#39;t accidentally tweet your AWS credentials 🦀</sub>
+  <sub>The Secure Open Source AI Agent for devs. It won&#39;t accidentally tweet your AWS credentials 🦀</sub>
 
 
 
