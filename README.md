@@ -46,7 +46,7 @@ I'm a software engineer focused on building type safe, performant systems and le
 - 🔗 [`abd0-omar/azizo`](https://github.com/abd0-omar/azizo) • 1 week ago\
   <sub>Rust API for ASUS display control</sub>
 
-- 🔗 [`abd0-omar/newzletter`](https://github.com/abd0-omar/newzletter) • 1 week ago\
+- 🔗 [`abd0-omar/newzletter`](https://github.com/abd0-omar/newzletter) • 2 weeks ago\
   <sub>following https://www.zero2prod.com book</sub>
 
 - 🔗 [`abd0-omar/leet-him-code`](https://github.com/abd0-omar/leet-him-code) • 3 weeks ago\
