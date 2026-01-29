@@ -31,7 +31,7 @@ I'm a software engineer focused on building type safe, performant systems and le
 - [feat: add actor model to `SecretManager` for redaction map thread safety](https://github.com/stakpak/agent/pull/354) in [`stakpak/agent`](https://github.com/stakpak/agent) • 1 month ago\
   <sub>The Open Source DevOps Agent. It won&#39;t accidentally tweet your AWS credentials 🦀</sub>
 
-- [refactor: optimize secret redaction and preserve redaction maps](https://github.com/stakpak/agent/pull/352) in [`stakpak/agent`](https://github.com/stakpak/agent) • 1 month ago\
+- [refactor: optimize secret redaction and preserve redaction maps](https://github.com/stakpak/agent/pull/352) in [`stakpak/agent`](https://github.com/stakpak/agent) • 2 months ago\
   <sub>The Open Source DevOps Agent. It won&#39;t accidentally tweet your AWS credentials 🦀</sub>
 
 
