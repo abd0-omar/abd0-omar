@@ -28,7 +28,7 @@ I'm a software engineer focused on building type safe, performant systems and le
 - [fix: shortcuts popup scroll navigation out-of-bounds bug](https://github.com/stakpak/agent/pull/357) in [`stakpak/agent`](https://github.com/stakpak/agent) • 1 month ago\
   <sub>The Open Source DevOps Agent. It won&#39;t accidentally tweet your AWS credentials 🦀</sub>
 
-- [feat: add actor model to `SecretManager` for redaction map thread safety](https://github.com/stakpak/agent/pull/354) in [`stakpak/agent`](https://github.com/stakpak/agent) • 1 month ago\
+- [feat: add actor model to `SecretManager` for redaction map thread safety](https://github.com/stakpak/agent/pull/354) in [`stakpak/agent`](https://github.com/stakpak/agent) • 2 months ago\
   <sub>The Open Source DevOps Agent. It won&#39;t accidentally tweet your AWS credentials 🦀</sub>
 
 - [refactor: optimize secret redaction and preserve redaction maps](https://github.com/stakpak/agent/pull/352) in [`stakpak/agent`](https://github.com/stakpak/agent) • 2 months ago\
