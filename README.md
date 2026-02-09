@@ -19,7 +19,7 @@ I'm a software engineer focused on building type safe, performant systems and le
 - [Feature/add rust mcp client integration example](https://github.com/stakpak/agent/pull/390) in [`stakpak/agent`](https://github.com/stakpak/agent) • 1 month ago\
   <sub>The Open Source DevOps Agent. It won&#39;t accidentally tweet your AWS credentials 🦀</sub>
 
-- [Feature/improve password security](https://github.com/stakpak/agent/pull/377) in [`stakpak/agent`](https://github.com/stakpak/agent) • 1 month ago\
+- [Feature/improve password security](https://github.com/stakpak/agent/pull/377) in [`stakpak/agent`](https://github.com/stakpak/agent) • 2 months ago\
   <sub>The Open Source DevOps Agent. It won&#39;t accidentally tweet your AWS credentials 🦀</sub>
 
 - [Fix PowerShell command syntax in README](https://github.com/metacall/install/pull/43) in [`metacall/install`](https://github.com/metacall/install) • 2 months ago\
@@ -40,7 +40,7 @@ I'm a software engineer focused on building type safe, performant systems and le
 
 ### 🛠️ Latest Contributions
 
-- 🔗 [`abd0-omar/newzletter`](https://github.com/abd0-omar/newzletter) • 6 days ago\
+- 🔗 [`abd0-omar/newzletter`](https://github.com/abd0-omar/newzletter) • 1 week ago\
   <sub>following https://www.zero2prod.com book</sub>
 
 - 🔗 [`greshake/i3status-rust`](https://github.com/greshake/i3status-rust) • 3 weeks ago\
