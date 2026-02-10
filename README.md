@@ -58,13 +58,6 @@ I'm a software engineer focused on building type safe, performant systems and le
 
 </details>
 
-### Currently reading
-| Book                            | Progress |
-| ------------------------------- | -------- |
-| Zero To Production In Rust      | 100%     |
-| Rust for Rustaceans             | 34%      |
-| Functional Programming in Scala | 6%       |
-
 ### Contact
 - 📄 [CV](https://drive.google.com/file/d/1_-vuaTUpLmBy8EY4ivTjZRMsQOx65ogk/view?usp=sharing)
 - 💼 [LinkedIn](https://www.linkedin.com/in/abdelrahman-omar-739126248/)
