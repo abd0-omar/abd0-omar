@@ -31,7 +31,7 @@ I'm a software engineer focused on building type safe, performant systems and le
 - [feat: add actor model to `SecretManager` for redaction map thread safety](https://github.com/stakpak/agent/pull/354) in [`stakpak/agent`](https://github.com/stakpak/agent) • 2 months ago\
   <sub>Ship your code, on autopilot. An open source agent that lives on your machines 24/7 and keeps your apps running. 🦀</sub>
 
-- [refactor: optimize secret redaction and preserve redaction maps](https://github.com/stakpak/agent/pull/352) in [`stakpak/agent`](https://github.com/stakpak/agent) • 2 months ago\
+- [refactor: optimize secret redaction and preserve redaction maps](https://github.com/stakpak/agent/pull/352) in [`stakpak/agent`](https://github.com/stakpak/agent) • 3 months ago\
   <sub>Ship your code, on autopilot. An open source agent that lives on your machines 24/7 and keeps your apps running. 🦀</sub>
 
 
