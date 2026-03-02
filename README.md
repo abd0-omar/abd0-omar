@@ -42,7 +42,7 @@ I'm a software engineer focused on building type safe, performant systems and le
 
 - 🔗 [`abd0-omar/Flutter-POS`](https://github.com/abd0-omar/Flutter-POS) • 2 weeks ago
 
-- 🔗 [`abd0-omar/newzletter`](https://github.com/abd0-omar/newzletter) • 3 weeks ago\
+- 🔗 [`abd0-omar/newzletter`](https://github.com/abd0-omar/newzletter) • 4 weeks ago\
   <sub>following https://www.zero2prod.com book</sub>
 
 - 🔗 [`greshake/i3status-rust`](https://github.com/greshake/i3status-rust) • 1 month ago\
