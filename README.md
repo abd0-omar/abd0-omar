@@ -25,7 +25,7 @@ I'm a software engineer focused on building type safe, performant systems and le
 - [Fix PowerShell command syntax in README](https://github.com/metacall/install/pull/43) in [`metacall/install`](https://github.com/metacall/install) • 2 months ago\
   <sub>Cross-platform set of script to install MetaCall infrastructure.</sub>
 
-- [fix: shortcuts popup scroll navigation out-of-bounds bug](https://github.com/stakpak/agent/pull/357) in [`stakpak/agent`](https://github.com/stakpak/agent) • 2 months ago\
+- [fix: shortcuts popup scroll navigation out-of-bounds bug](https://github.com/stakpak/agent/pull/357) in [`stakpak/agent`](https://github.com/stakpak/agent) • 3 months ago\
   <sub>Ship your code, on autopilot. An open source agent that lives on your machines 24/7 and keeps your apps running. 🦀</sub>
 
 - [feat: add actor model to `SecretManager` for redaction map thread safety](https://github.com/stakpak/agent/pull/354) in [`stakpak/agent`](https://github.com/stakpak/agent) • 3 months ago\
