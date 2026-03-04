@@ -40,9 +40,9 @@ I'm a software engineer focused on building type safe, performant systems and le
 
 ### 🛠️ Latest Contributions
 
-- 🔗 [`abd0-omar/Flutter-POS`](https://github.com/abd0-omar/Flutter-POS) • 2 weeks ago
+- 🔗 [`abd0-omar/Flutter-POS`](https://github.com/abd0-omar/Flutter-POS) • 3 weeks ago
 
-- 🔗 [`abd0-omar/newzletter`](https://github.com/abd0-omar/newzletter) • 4 weeks ago\
+- 🔗 [`abd0-omar/newzletter`](https://github.com/abd0-omar/newzletter) • 1 month ago\
   <sub>following https://www.zero2prod.com book</sub>
 
 - 🔗 [`greshake/i3status-rust`](https://github.com/greshake/i3status-rust) • 1 month ago\
@@ -51,7 +51,7 @@ I'm a software engineer focused on building type safe, performant systems and le
 - 🔗 [`abd0-omar/azizo`](https://github.com/abd0-omar/azizo) • 1 month ago\
   <sub>Rust API for ASUS display control</sub>
 
-- 🔗 [`abd0-omar/leet-him-code`](https://github.com/abd0-omar/leet-him-code) • 1 month ago\
+- 🔗 [`abd0-omar/leet-him-code`](https://github.com/abd0-omar/leet-him-code) • 2 months ago\
   <sub>who let him code</sub>
 
 
