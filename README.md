@@ -22,7 +22,7 @@ I'm a software engineer focused on building type safe, performant systems and le
 - [Feature/improve password security](https://github.com/stakpak/agent/pull/377) in [`stakpak/agent`](https://github.com/stakpak/agent) • 2 months ago\
   <sub>Ship your code, on autopilot. An open source agent that lives on your machines 24/7 and keeps your apps running. 🦀</sub>
 
-- [Fix PowerShell command syntax in README](https://github.com/metacall/install/pull/43) in [`metacall/install`](https://github.com/metacall/install) • 2 months ago\
+- [Fix PowerShell command syntax in README](https://github.com/metacall/install/pull/43) in [`metacall/install`](https://github.com/metacall/install) • 3 months ago\
   <sub>Cross-platform set of script to install MetaCall infrastructure.</sub>
 
 - [fix: shortcuts popup scroll navigation out-of-bounds bug](https://github.com/stakpak/agent/pull/357) in [`stakpak/agent`](https://github.com/stakpak/agent) • 3 months ago\
