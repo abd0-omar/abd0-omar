@@ -1,4 +1,4 @@
-## Hi 👋, I'm Abdelrahman Omar (Abdo)
+## Hi, I'm Abdelrahman Omar (Abdo)
 I'm a software engineer focused on building type safe, performant systems and learning about distributed systems.
 
 ### What I work on
