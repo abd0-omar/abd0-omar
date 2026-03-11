@@ -1,4 +1,4 @@
-## Hi 👋, I'm Abdelrahman Omar (Abdo)
+## Hi, I'm Abdelrahman Omar (Abdo)
 I'm a software engineer focused on building type safe, performant systems and learning about distributed systems.
 
 ### What I work on
@@ -16,10 +16,13 @@ I'm a software engineer focused on building type safe, performant systems and le
 
 ### 🔁 Merged Pull Requests
 
+- [Remove duplicate `python` from treesitter list](https://github.com/radleylewis/nvim-lite/pull/15) in [`radleylewis/nvim-lite`](https://github.com/radleylewis/nvim-lite) • 2 days ago\
+  <sub>A Powerful but Tastefully Minimal NeoVim Configuration</sub>
+
 - [Feature/add rust mcp client integration example](https://github.com/stakpak/agent/pull/390) in [`stakpak/agent`](https://github.com/stakpak/agent) • 2 months ago\
   <sub>Ship your code, on autopilot. An open source agent that lives on your machines 24/7 and keeps your apps running. 🦀</sub>
 
-- [Feature/improve password security](https://github.com/stakpak/agent/pull/377) in [`stakpak/agent`](https://github.com/stakpak/agent) • 2 months ago\
+- [Feature/improve password security](https://github.com/stakpak/agent/pull/377) in [`stakpak/agent`](https://github.com/stakpak/agent) • 3 months ago\
   <sub>Ship your code, on autopilot. An open source agent that lives on your machines 24/7 and keeps your apps running. 🦀</sub>
 
 - [Fix PowerShell command syntax in README](https://github.com/metacall/install/pull/43) in [`metacall/install`](https://github.com/metacall/install) • 3 months ago\
@@ -40,19 +43,19 @@ I'm a software engineer focused on building type safe, performant systems and le
 
 ### 🛠️ Latest Contributions
 
-- 🔗 [`abd0-omar/Flutter-POS`](https://github.com/abd0-omar/Flutter-POS) • 3 weeks ago
-
-- 🔗 [`abd0-omar/newzletter`](https://github.com/abd0-omar/newzletter) • 1 month ago\
+- 🔗 [`abd0-omar/newzletter`](https://github.com/abd0-omar/newzletter) • 1 day ago\
   <sub>following https://www.zero2prod.com book</sub>
+
+- 🔗 [`radleylewis/nvim-lite`](https://github.com/radleylewis/nvim-lite) • 2 days ago\
+  <sub>A Powerful but Tastefully Minimal NeoVim Configuration</sub>
+
+- 🔗 [`abd0-omar/Flutter-POS`](https://github.com/abd0-omar/Flutter-POS) • 4 weeks ago
 
 - 🔗 [`greshake/i3status-rust`](https://github.com/greshake/i3status-rust) • 1 month ago\
   <sub>Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust</sub>
 
 - 🔗 [`abd0-omar/azizo`](https://github.com/abd0-omar/azizo) • 1 month ago\
   <sub>Rust API for ASUS display control</sub>
-
-- 🔗 [`abd0-omar/leet-him-code`](https://github.com/abd0-omar/leet-him-code) • 2 months ago\
-  <sub>who let him code</sub>
 
 
 
