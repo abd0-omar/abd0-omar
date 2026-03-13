@@ -16,7 +16,7 @@ I'm a software engineer focused on building type safe, performant systems and le
 
 ### 🔁 Merged Pull Requests
 
-- [Remove duplicate `python` from treesitter list](https://github.com/radleylewis/nvim-lite/pull/15) in [`radleylewis/nvim-lite`](https://github.com/radleylewis/nvim-lite) • 3 days ago\
+- [Remove duplicate `python` from treesitter list](https://github.com/radleylewis/nvim-lite/pull/15) in [`radleylewis/nvim-lite`](https://github.com/radleylewis/nvim-lite) • 4 days ago\
   <sub>A Powerful but Tastefully Minimal NeoVim Configuration</sub>
 
 - [Feature/add rust mcp client integration example](https://github.com/stakpak/agent/pull/390) in [`stakpak/agent`](https://github.com/stakpak/agent) • 2 months ago\
@@ -43,13 +43,13 @@ I'm a software engineer focused on building type safe, performant systems and le
 
 ### 🛠️ Latest Contributions
 
-- 🔗 [`abd0-omar/newzletter`](https://github.com/abd0-omar/newzletter) • 1 day ago\
+- 🔗 [`abd0-omar/newzletter`](https://github.com/abd0-omar/newzletter) • 2 days ago\
   <sub>following https://www.zero2prod.com book</sub>
 
-- 🔗 [`radleylewis/nvim-lite`](https://github.com/radleylewis/nvim-lite) • 3 days ago\
+- 🔗 [`radleylewis/nvim-lite`](https://github.com/radleylewis/nvim-lite) • 4 days ago\
   <sub>A Powerful but Tastefully Minimal NeoVim Configuration</sub>
 
-- 🔗 [`abd0-omar/Flutter-POS`](https://github.com/abd0-omar/Flutter-POS) • 4 weeks ago
+- 🔗 [`abd0-omar/Flutter-POS`](https://github.com/abd0-omar/Flutter-POS) • 1 month ago
 
 - 🔗 [`greshake/i3status-rust`](https://github.com/greshake/i3status-rust) • 1 month ago\
   <sub>Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust</sub>
