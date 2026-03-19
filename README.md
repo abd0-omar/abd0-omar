@@ -19,7 +19,7 @@ I'm a software engineer focused on building type safe, performant systems and le
 - [Remove duplicate `python` from treesitter list](https://github.com/radleylewis/nvim-lite/pull/15) in [`radleylewis/nvim-lite`](https://github.com/radleylewis/nvim-lite) • 1 week ago\
   <sub>A Powerful but Tastefully Minimal NeoVim Configuration</sub>
 
-- [Feature/add rust mcp client integration example](https://github.com/stakpak/agent/pull/390) in [`stakpak/agent`](https://github.com/stakpak/agent) • 2 months ago\
+- [Feature/add rust mcp client integration example](https://github.com/stakpak/agent/pull/390) in [`stakpak/agent`](https://github.com/stakpak/agent) • 3 months ago\
   <sub>Ship your code, on autopilot. An open source agent that lives on your machines 24/7 and keeps your apps running. 🦀</sub>
 
 - [Feature/improve password security](https://github.com/stakpak/agent/pull/377) in [`stakpak/agent`](https://github.com/stakpak/agent) • 3 months ago\
@@ -43,7 +43,7 @@ I'm a software engineer focused on building type safe, performant systems and le
 
 ### 🛠️ Latest Contributions
 
-- 🔗 [`abd0-omar/leet-him-code`](https://github.com/abd0-omar/leet-him-code) • 5 days ago\
+- 🔗 [`abd0-omar/leet-him-code`](https://github.com/abd0-omar/leet-him-code) • 6 days ago\
   <sub>who let him code</sub>
 
 - 🔗 [`abd0-omar/newzletter`](https://github.com/abd0-omar/newzletter) • 1 week ago\
