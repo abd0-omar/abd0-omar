@@ -43,7 +43,7 @@ I'm a software engineer focused on building type safe, performant systems and le
 
 ### 🛠️ Latest Contributions
 
-- 🔗 [`abd0-omar/leet-him-code`](https://github.com/abd0-omar/leet-him-code) • 6 days ago\
+- 🔗 [`abd0-omar/leet-him-code`](https://github.com/abd0-omar/leet-him-code) • 1 week ago\
   <sub>who let him code</sub>
 
 - 🔗 [`abd0-omar/newzletter`](https://github.com/abd0-omar/newzletter) • 1 week ago\
