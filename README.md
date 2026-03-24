@@ -9,57 +9,31 @@ I'm a software engineer focused on building type safe, performant systems and le
 
 ## Recent activity
 
-<details>
-  <summary>Click to expand recent GitHub activity</summary>
 
 
+### Recent Pull Requests
 
-### 🔁 Merged Pull Requests
+- [refactor(flutter_todos): remove redundant empty list addition](https://github.com/felangel/bloc/pull/4760) in [`felangel/bloc`](https://github.com/felangel/bloc)
 
-- [Remove duplicate `python` from treesitter list](https://github.com/radleylewis/nvim-lite/pull/15) in [`radleylewis/nvim-lite`](https://github.com/radleylewis/nvim-lite) • 2 weeks ago\
-  <sub>A Powerful but Tastefully Minimal NeoVim Configuration</sub>
+- [Remove duplicate `python` from treesitter list](https://github.com/radleylewis/nvim-lite/pull/15) in [`radleylewis/nvim-lite`](https://github.com/radleylewis/nvim-lite)
 
-- [Feature/add rust mcp client integration example](https://github.com/stakpak/agent/pull/390) in [`stakpak/agent`](https://github.com/stakpak/agent) • 3 months ago\
-  <sub>Ship your code, on autopilot. An open source agent that lives on your machines 24/7 and keeps your apps running. 🦀</sub>
+- [Feature/add rust mcp client integration example](https://github.com/stakpak/agent/pull/390) in [`stakpak/agent`](https://github.com/stakpak/agent)
 
-- [Feature/improve password security](https://github.com/stakpak/agent/pull/377) in [`stakpak/agent`](https://github.com/stakpak/agent) • 3 months ago\
-  <sub>Ship your code, on autopilot. An open source agent that lives on your machines 24/7 and keeps your apps running. 🦀</sub>
+- [feat: add `with_capacity()` fn to `RootCertStore`](https://github.com/rustls/rustls/pull/2809) in [`rustls/rustls`](https://github.com/rustls/rustls)
 
-- [Fix PowerShell command syntax in README](https://github.com/metacall/install/pull/43) in [`metacall/install`](https://github.com/metacall/install) • 3 months ago\
-  <sub>Cross-platform set of script to install MetaCall infrastructure.</sub>
+- [Feature/improve password security](https://github.com/stakpak/agent/pull/377) in [`stakpak/agent`](https://github.com/stakpak/agent)
 
-- [fix: shortcuts popup scroll navigation out-of-bounds bug](https://github.com/stakpak/agent/pull/357) in [`stakpak/agent`](https://github.com/stakpak/agent) • 3 months ago\
-  <sub>Ship your code, on autopilot. An open source agent that lives on your machines 24/7 and keeps your apps running. 🦀</sub>
+- [fix test: use `config.store_path` (temp dir) instead of deafult home path](https://github.com/stakpak/agent/pull/375) in [`stakpak/agent`](https://github.com/stakpak/agent)
 
-- [feat: add actor model to `SecretManager` for redaction map thread safety](https://github.com/stakpak/agent/pull/354) in [`stakpak/agent`](https://github.com/stakpak/agent) • 3 months ago\
-  <sub>Ship your code, on autopilot. An open source agent that lives on your machines 24/7 and keeps your apps running. 🦀</sub>
+- [Fix PowerShell command syntax in README](https://github.com/metacall/install/pull/43) in [`metacall/install`](https://github.com/metacall/install)
 
-- [refactor: optimize secret redaction and preserve redaction maps](https://github.com/stakpak/agent/pull/352) in [`stakpak/agent`](https://github.com/stakpak/agent) • 3 months ago\
-  <sub>Ship your code, on autopilot. An open source agent that lives on your machines 24/7 and keeps your apps running. 🦀</sub>
+- [fix: shortcuts popup scroll navigation out-of-bounds bug](https://github.com/stakpak/agent/pull/357) in [`stakpak/agent`](https://github.com/stakpak/agent)
+
+- [feat: add actor model to `SecretManager` for redaction map thread safety](https://github.com/stakpak/agent/pull/354) in [`stakpak/agent`](https://github.com/stakpak/agent)
+
+- [refactor: optimize secret redaction and preserve redaction maps](https://github.com/stakpak/agent/pull/352) in [`stakpak/agent`](https://github.com/stakpak/agent)
 
 
-
-
-
-### 🛠️ Latest Contributions
-
-- 🔗 [`abd0-omar/leet-him-code`](https://github.com/abd0-omar/leet-him-code) • 1 day ago\
-  <sub>who let him code</sub>
-
-- 🔗 [`abd0-omar/newzletter`](https://github.com/abd0-omar/newzletter) • 1 week ago\
-  <sub>following https://www.zero2prod.com book</sub>
-
-- 🔗 [`radleylewis/nvim-lite`](https://github.com/radleylewis/nvim-lite) • 2 weeks ago\
-  <sub>A Powerful but Tastefully Minimal NeoVim Configuration</sub>
-
-- 🔗 [`abd0-omar/Flutter-POS`](https://github.com/abd0-omar/Flutter-POS) • 1 month ago
-
-- 🔗 [`greshake/i3status-rust`](https://github.com/greshake/i3status-rust) • 2 months ago\
-  <sub>Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust</sub>
-
-
-
-</details>
 
 ### Contact
 - 📄 [CV](https://drive.google.com/file/d/1_-vuaTUpLmBy8EY4ivTjZRMsQOx65ogk/view?usp=sharing)
