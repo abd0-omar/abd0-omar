@@ -13,6 +13,8 @@ I'm a software engineer focused on building type safe, performant systems and le
 
 ### Recent Pull Requests
 
+- [Preserve escaped paths in display URLs](https://github.com/cli/cli/pull/13547) in [`cli/cli`](https://github.com/cli/cli)
+
 - [refactor(flutter_todos): remove redundant empty list addition](https://github.com/felangel/bloc/pull/4760) in [`felangel/bloc`](https://github.com/felangel/bloc)
 
 - [Remove duplicate `python` from treesitter list](https://github.com/radleylewis/nvim-lite/pull/15) in [`radleylewis/nvim-lite`](https://github.com/radleylewis/nvim-lite)
@@ -30,8 +32,6 @@ I'm a software engineer focused on building type safe, performant systems and le
 - [fix: shortcuts popup scroll navigation out-of-bounds bug](https://github.com/stakpak/agent/pull/357) in [`stakpak/agent`](https://github.com/stakpak/agent)
 
 - [feat: add actor model to `SecretManager` for redaction map thread safety](https://github.com/stakpak/agent/pull/354) in [`stakpak/agent`](https://github.com/stakpak/agent)
-
-- [refactor: optimize secret redaction and preserve redaction maps](https://github.com/stakpak/agent/pull/352) in [`stakpak/agent`](https://github.com/stakpak/agent)
 
 
 
