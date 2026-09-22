@@ -13,6 +13,8 @@ I'm a software engineer focused on building type safe, performant systems and le
 
 ### Recent Pull Requests
 
+- [match TraceLayer documentation link version](https://github.com/tokio-rs/axum/pull/3898) in [`tokio-rs/axum`](https://github.com/tokio-rs/axum)
+
 - [Update docs to reflect removed site_title and footer configs](https://github.com/activeadmin/activeadmin/pull/9090) in [`activeadmin/activeadmin`](https://github.com/activeadmin/activeadmin)
 
 - [Preserve escaped paths in display URLs](https://github.com/cli/cli/pull/13547) in [`cli/cli`](https://github.com/cli/cli)
@@ -30,8 +32,6 @@ I'm a software engineer focused on building type safe, performant systems and le
 - [fix test: use `config.store_path` (temp dir) instead of deafult home path](https://github.com/stakpak/agent/pull/375) in [`stakpak/agent`](https://github.com/stakpak/agent)
 
 - [Fix PowerShell command syntax in README](https://github.com/metacall/install/pull/43) in [`metacall/install`](https://github.com/metacall/install)
-
-- [fix: shortcuts popup scroll navigation out-of-bounds bug](https://github.com/stakpak/agent/pull/357) in [`stakpak/agent`](https://github.com/stakpak/agent)
 
 
 
